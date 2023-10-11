@@ -1,2 +1,3 @@
-service: demo-morning-flask
+service: default
+
 runtime: python310

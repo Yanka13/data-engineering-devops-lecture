@@ -1,5 +1,5 @@
 from flask import Flask, jsonify
-from dice import Dice 
+from dice_roller.dice import Dice 
 
 
 app = Flask(__name__)
