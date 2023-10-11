@@ -1,0 +1,2 @@
+service: demo-morning-flask
+runtime: python310
