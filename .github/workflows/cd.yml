@@ -37,7 +37,6 @@ jobs:
       contents: 'read'
       id-token: 'write'
     steps:
-    - uses:
     - uses: 'actions/checkout@v3'
 
     # Authenticate via Service Account Key JSON
